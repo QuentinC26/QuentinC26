@@ -2,7 +2,13 @@
 Je suis Quentin Zuzlewski, un développeur web full stack junior avec une préférence pour le front-end. Cependant, je ne suis pas fermé à d'autres propositions, comme travailler dans le back-end par exemple. Je suis très créatif, ce qui m'aide énormément dans la réalisation de mes projets.
 
 ## Mes compétences techniques :
-En cours d'écriture...
+**Langages :** C, Python, HTML, CSS, JavaScript, TypeScript
+
+**Frameworks :** Flask, Django, React
+
+**Bases de données :** SQL, NoSQL
+
+**Outils et méthodes :** Docker, Méthode agile, Trello, Stand-up
 
 ## Mes projets personnels :
 **Autistic Eye** 
