@@ -5,7 +5,11 @@ Je suis Quentin Zuzlewski, un développeur web full stack junior avec une préf�
 En cours d'écriture...
 
 ## Mes projets personnels :
-En cours d'écriture...
+**Autistic Eye** 
+
+![Logo Autistic Eye](https://i15.servimg.com/u/f15/19/74/13/62/logo_a12.png)
+
+Réseau social communautaire pour les personnes autistes et leur entourage.
 
 ## Comment me contacter ? :
 
