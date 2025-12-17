@@ -19,6 +19,6 @@ Réseau social communautaire pour les personnes autistes et leur entourage.
 
 ## Comment me contacter ? :
 
-:blue_book: [Mon LinkedIn](https://www.linkedin.com/in/ton-pseudo-linkedin/)
+:blue_book: [Mon LinkedIn]([https://www.linkedin.com/in/quentinzuzlewski/)
 
 :email: qzuzlewski@gmail.com
