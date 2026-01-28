@@ -1,5 +1,5 @@
 ## Qui suis-je ?
-Je suis Quentin Zuzlewski, un développeur web full stack junior avec une préférence pour le front-end. Cependant, je ne suis pas fermé à d'autres propositions, comme travailler dans le back-end par exemple. Je suis très créatif, ce qui m'aide énormément dans la réalisation de mes projets.
+Je suis Quentin Zuzlewski, un développeur web full stack junior avec une préférence pour le front-end. Je suis très créatif, ce qui m'aide énormément dans la réalisation de mes projets. Je recherche actuellement une alternance de développeur web full stack et je reste également ouvert à un stage, ainsi qu’à travailler avec différentes technologies.
 
 ## Mes compétences techniques :
 
