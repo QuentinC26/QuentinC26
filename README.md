@@ -18,6 +18,7 @@ Je suis Quentin Zuzlewski, un développeur web full stack junior avec une préf�
 **Frameworks :**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Bibliothèque frontend :**
